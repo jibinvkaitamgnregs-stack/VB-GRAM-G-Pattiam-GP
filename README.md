@@ -75,7 +75,7 @@
         .menu a {
             display: block;
             text-decoration: none;
-            color: #374251;
+            color: #374151;
             padding: 12px 15px;
             border-radius: 7px;
             transition: 0.2s;
@@ -156,7 +156,7 @@
 
         /* Cards */
         .cards {
-            display: grid;
+            display: https://vbgramg.dord.gov.in/vbgramg/home.aspx grid;
             grid-template-columns: repeat(4, 1fr);
             gap: 15px;
             margin-bottom: 20px;
@@ -356,12 +356,12 @@
 <header class="header">
     <div>
         <h1>VBGRAMG</h1>
-        <p>Gram Panchayat Level Monitoring System</p>
+        <p>Pattiam Gram Panchayat Level Monitoring System</p>
     </div>
 
     <div class="user">
         <strong>Administrator</strong><br>
-        <small>Gram Panchayat Monitoring</small>
+        <small>Pattiam Gram Panchayat Monitoring</small>
     </div>
 </header>
 
@@ -373,15 +373,20 @@
         <h3>Monitoring Menu</h3>
 
         <ul class="menu">
-            <li><a href="#" class="active">📊 Dashboard</a></li>
-            <li><a href="#">🏘️ Panchayat Details</a></li>
-            <li><a href="#">📋 Works & Projects</a></li>
-            <li><a href="#">👥 Beneficiaries</a></li>
-            <li><a href="#">💰 Financial Progress</a></li>
-            <li><a href="#">📈 Physical Progress</a></li>
-            <li><a href="#">📝 Inspections</a></li>
-            <li><a href="#">⚠️ Issues & Alerts</a></li>
-            <li><a href="#">📑 Reports</a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/vbgramg_ataglance/At_a_glance.aspx>📊 AT A GLANCE </a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/IndexFrame.aspx?payload=iPj-AzfVDlAjNH7Q6XCteCh-Y51A1WO6n84SL9J1bxYq5nG-668vltW9F6eBHwGIukj0BBHYeHZu-A5SnIAxJ33lhs2pXOxCh3qGCAqs24tQmPmnMBrvETqXydHKgAqN8YbvNhQA2S9d5rgWSe13VG82oy8F-H1kHFqwRjR6uyFaIv9UrSlh4rY5dwVcfpNuvdHAg5ZEblPVQ0HVBiopJQk4RgNrn5wcSpL5cyJ5WdVetsi43dy2w3ZIX2q8Nw_TCfGiE9DZxCCiaOeBGrdmQOd7we9RFj56EiclCUHzNsc>Pattiam Report </a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/work_register.aspx?payload=p1ay8F5exg6cJaJ4XCAcUlvBLTgACr0yFm1YZ9NmrLZZjGWSDhbEduc5IU4eshDMZPim9AB-ww_vZSR0lsrfWU7_RzprOYcqYaqoRbXjYquQP4AflW1L16Dz6g3MupwoGHAK4cqnQnxcRnTjeVhOdPZgUCJxDUw4VTm3UT7SRUejNLTGjkXRwqAHTc1vjPYEmXTDR3aOi1YKqv2AXullyb4BwAro4u8n2JoSR-rqkg3zKqupvd5k9nDDGGxlHsRH0JRu3vXI_geY-jKVVYfkhlaZhJQ8gHOCCYSgiX-T4qBVERZ-sZrs1tfAlRZrESiE>📋 Works Register </a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/writereaddata/state_out/jobcardreg_1602006005_eng.html>👥 JOB CARD REGISERED</a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/state_html/emuster_wagelist_rpt.aspx?payload=PBRkgzOGa-VcRTyVQgTHkwBd4rVf-CTgCjHbYGVS8SBrJvOlj_uO0Y0uhLEUL1woAAiF6oS_8EFzqQxGvwWRHMyJCcT9L8Pu5n3id1Pw_RVQgI7MJ-DYP43pF40EhyUXVT-8otL5-wAhZRYh7If5cpcn1gDHMt-HIA7ab4TCa2YCTRdo7Izk1c5sXFn2mpTHR5AZfJtQnL94AytWu6L0Z3b_CrarqbJPQd0lkIvixzeQbnbdmXrkzUa0ptEKuW04Vrtnun_ZPmc2yWC3RYz-rA>💰E-Mustroll and Wagelist</a></li>
+            <li><a href=https://vbgramgrep.dord.gov.in/vbgramg/specific_work_search_rpt.aspx?payload=IUIs-oDgeppQNjfEmEGnJSl0h-NW1UizMC8hJu_B7xx8i5xxkiQnlArPvdz0Z4oIc_Bbtl3wtQLLNVCdM03U5igajiKoaC1jLDHD5-cA2QODwRqbWeDig5ed5tW4NJZiCQw82zvMBIj6IwbOcpHa4TjvpRngruZ2aW674AN1Ad4PSh2ui0SnWVxCV_nXkMiY>📈 E-Work File</a></li>
+            <li><b>📝 Dynamic Report</></li><li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/dynamic_work_details.aspx?payload=5Ej2GFsBYVl8xwvMqBLE5TLhFZpcvKTM0OuciIEPt3esYU7Xxpupu1ZnUpC-3MlimaZli0jGlT31JvWffd-ZBpq6I4GEOJ13QZX3rT8qmlvcZblkpgoI6FBC3wANY5s-PlDe4Zd7L038dvus0ZHO1iGGRzvsN9tQhDg7ViKpJ42f-SzuZNKeKB3_zgDf9yGy>❗ Work Report </a></li>
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/dynamic_account_sk_ssk.aspx?payload=O7Y1eWDFXqYtMng4O_1I4L9N8SesxGHRtJdSanm_NDUAQFRLSOJj_oCSsWbA6QfPFDZsBiUtHS7sgImksSNKtmAFJZWe3MPKViQbeSotAJamMOAc95khcPu-j99YQ05RmDtCdQCHrVdvfZ_UkiEsNFReK9AAoMmGj3BgHdrQ6gqNK_-qwVm8j_HQtt-1Rrd->❗ Skilled Report </a></li>
+            <li> <B>⚠️ Tracking & Alerts</B> </li><li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/dynamic_muster_track.aspx?payload=tX2SfSIxHu_zB9yWSjXfzLsiaIRcQTMlEkKlec2XpZ-MgLZrPxebQNm4PpP62pRqZWeZzmSseFvci5oXDKTT_e-zMKfLY9FpaF2zn3U27eLVQrTPs7ouJg2wrqLugJPi7hUii6mhMqGSt5oz3yPeww>❗Muster roll Tracking</a></li>
+ <a href=https://vbgramgrep.dord.gov.in/VBGRAMG/dynamic_material_track.aspx?payload=yE16mkRF69TuAOJsh6sh9j337JLEH-vgiajT9QSlVlSNgIKTFFJqo-j4d0Kw7W0ASDs5VpX0s8w8xaDqahifS9cO_Lnb11bp9H-HCFeWoviXRtAKPSdYO5yIT6loKP42FGFpoDm68qsa43isecFysQ>  ❗Material Bill Tracking</a></li>
+
+<a href=https://vbgramgrep.dord.gov.in/VBGRAMG/dynamic_mat_track.aspx?payload=qhJ3tXx3zfxAtjMW5HCZuyckuH2IwJtU3sLwkqqlyrx--CgoaZgETt1BUoZYiM-ocjoua7bpOkjx15ALDJt15h9XaoB9yZzHEiWTQIoisIhqA7gaieGv8zsqKZdVxCEK_aVrJB38o-M4jcWF7Y9Y-Q>❗Mate Tracking</a></li>
+
+            <li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/Citizen_html/Musternew.aspx?payload=-vDqJMEmnzg1V8UjhU9UZK002vwgRWv-u5uEJ72WPCMnAM1d6hDnmBoUEUmm8yQEkLrB38M9NIilKNmzx9Nc1u2tMSVND7OsezOxxITlLjqyl2m41UiBm0Je41rYjJK9Xe6tZiN_0KlETm7_7NDpKz_uwi9RMwv-rzgrG0AkrvtmdlAlBk6d-GUlXCuIN4hcEY1usVlqRY5SeYFJp8L36JrZRx2HpZCKT5oRxjwLQ5sgmFUCM_B9Co9-RFGLZVtY9KteRfY3iuE-ymAU22g0iRGfz6EAi6OI5dc_881l5p9frxpa9hsAD6bMW2dN3OB3u2TgmzVelm9AEWGfP-nAMg>📑 Muster Rolls</a></li>
             <li><a href="#">⚙️ Settings</a></li>
         </ul>
 
@@ -391,7 +396,7 @@
     <main class="main">
 
         <div class="page-title">
-            <h2>Gram Panchayat Monitoring Dashboard</h2>
+            <h2>Pattiam Gram Panchayat Monitoring Dashboard</h2>
             <p>Monitor scheme implementation, projects, beneficiaries and financial progress.</p>
         </div>
 
@@ -404,28 +409,24 @@
                     <label>District</label>
                     <select id="district">
                         <option>Select District</option>
-                        <option>Thrissur</option>
-                        <option>Ernakulam</option>
-                        <option>Palakkad</option>
-                        <option>Malappuram</option>
-                    </select>
+                        <option>KANNUR</option>
+                                           </select>
                 </div>
 
                 <div>
                     <label>Block Panchayat</label>
                     <select>
                         <option>Select Block</option>
-                        <option>Block Panchayat 1</option>
-                        <option>Block Panchayat 2</option>
-                    </select>
+                        <option>KUTHUPARAMBA</option>
+                                           </select>
                 </div>
 
                 <div>
                     <label>Gram Panchayat</label>
                     <select>
                         <option>Select Panchayat</option>
-                        <option>Gram Panchayat A</option>
-                        <option>Gram Panchayat B</option>
+                        <option>PATTIAM</option>
+                       
                     </select>
                 </div>
 
@@ -433,253 +434,51 @@
                     <label>Financial Year</label>
                     <select>
                         <option>2026-27</option>
-                        <option>2025-26</option>
-                        <option>2024-25</option>
-                    </select>
+                                           </select>
                 </div>
 
             </div>
 
-            <button onclick="applyFilter()">Apply Filter</button>
+            <button onclick="applyFilter()">REPORT <a href=https://vbgramgrep.dord.gov.in/VBGRAMG/IndexFrame.aspx?payload=iPj-AzfVDlAjNH7Q6XCteCh-Y51A1WO6n84SL9J1bxYq5nG-668vltW9F6eBHwGIukj0BBHYeHZu-A5SnIAxJ33lhs2pXOxCh3qGCAqs24tQmPmnMBrvETqXydHKgAqN8YbvNhQA2S9d5rgWSe13VG82oy8F-H1kHFqwRjR6uyFaIv9UrSlh4rY5dwVcfpNuvdHAg5ZEblPVQ0HVBiopJQk4RgNrn5wcSpL5cyJ5WdVetsi43dy2w3ZIX2q8Nw_TCfGiE9DZxCCiaOeBGrdmQOd7we9RFj56EiclCUHzNsc></a>
+</button>
 
         </section>
 
         <!-- Summary Cards -->
         <section class="cards">
 
-            <div class="card">
-                <h4>Total Projects</h4>
-                <div class="number">128</div>
-            </div>
+           <div class="card"> <div class="menu">
+                <h3><B>GP LEVEL LOGINS <B></h3>  
+<li><a href=https://vbgramgde2.dord.gov.in/VBGRAMG/Login.aspx?level=HomeGP&state_code=16>👥 DATA ENTRY  </a></li>
+<li><a href=https://vbgramgde2.dord.gov.in/VBGRAMG/Login.aspx?payload=cyp-rF8qV6f8R7u5E6K8kZ-RFbhKDD1vNXxQuR1yiYKpksKcOXTuK-W7AUXmLfU8>👥 E-Mbook GP level </a></li>
+<li><a href=https://vbgramgde2.dord.gov.in/VBGRAMG/Login.aspx?payload=MF1kfMseiO8iXYQnp_Vx3G577wqhSdIn2m61HGpS4OfqJh2C8y0BReh28Fsg1iBe>👥 E-Mbook BP level </a></li>
+<li><a href=https://vbgramgweb1.dord.gov.in/VBGRAMG/FTO/Login.aspx?&level=HomeACGP&state_code=16>👥 FIRST SIGNATORY  </a></li>
+<li><a href=https://vbgramgweb1.dord.gov.in/VBGRAMG/FTO/Login.aspx?&level=HomeWLGP&state_code=16>👥 SECOND SIGNATORY  </a></li>
+<li><a href=https://secure.dord.gov.in/securev2/>👥 SECURE  </a></li>
+<li><a href=https://bims.treasury.kerala.gov.in/index.php/login>👥 BIMS  </a></li>
+               
+            </div>  </div>
+ <!-- Summary Cards -->
+        <section class="cards">
 
-            <div class="card">
-                <h4>Completed Projects</h4>
-                <div class="number success">82</div>
-            </div>
+           <div class="card"> <div class="menu">
+                <h3><B>FINANCIAL REPORTS <B></h3>  
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/FTO/FTOReport.aspx?payload=lXA_RoFCngGgxRTUYviDX_0Y9RLVb20Ro0rRteNNVKln6ExYElFGoKcbTc3FB0cdm_Gmm8c6lyfipcwDJcsrrOiuN1C9e4nHB4pIof5800hVjt8Ow_BG1S-ZPPFnUnfBRbcRnJFxrMYbODeSeiVGUskuqjy-e8ieGSWp-byr69OmnZv6AR58yqCqC5bVuOVSnxdJEC25wpibVIbpzJ8ITuXYisurcrqQF11nZQOz7cky0xYYBIQz6BcFBRcJR5l3MDOQ1hnph990bHDUjG0iF9bBrhvuqMUiJdJLEN3_DGZSQxYqcwHvVs8QKyjFUqV->💰 FTO Status  </a></li>
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/writereaddata/citizen_out/funddisreport_1602006_eng_2627_.html>💰 Financial Statement </a></li>
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/state_html/outlayvscomest.aspx?payload=2hvI1E8ppR41bd08-xA2Pt614VULcm6s5C9pNB_MOvZOIIzPaNyXetL0botG0O8LwcCoRhBQgIqihXkRfaTtA1NMfgMs9ae7K2e5RTG1e4fJ23OHsarZET1DVuf4Ht5J4tpfHj9YA9-HrXKurkM_29POzN0yLTrgXZS32zQF1PDiNLruai5VbCa0OG1dwuvECC2YTr7uU2zeGpEKA-WkXwSQG8yJoz5B_PPyaKa3-4wqdQlFDh9D4Bre7QXARu8sXN60M3ZJKBwngmYQqRFPpIjr8tUL8BCDkHfOinePGE4NlgTLFpo2IBko_Kb-sj5y>💰 Outlas & Outcomes </a></li>
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/citizen_html/continexpnew.aspx?payload=ukwBKzrdhNo8IZ78fm8qf48v0SaNsbv3RI5JzvmFhFORhDEE-lPdhtNQ0e-9_s2xH8l_ano2-RIfbY-05fpiOSE5CVrUIVV5O4qwAj3yQ2utnPbx_OfxcmM5c5gCYDhpRYso-hSqge6VTXD19iFG47ArwL5YkIy7UgdQD6xngy8>💰  Administration Expences  </a></li>
+<li><a href=https://vbgramgrep.dord.gov.in/VBGRAMG/citizen_html/demregister.aspx?payload=Iidu8NmdACTwXHQuohpZzFUJ28rlMB4zbHlzbSisQOOv3NvpEBnGFG7vT1L25EXKdqynn1U17FyfpE7jZyq88VQGaPBwDNW8vJntp0_FE-iv2BFNb8kUEPggbJfkvA3RFVP_uUNG3E9c7IIPsnoB5ucHplXpWMKFLt6zlO7fh5R7330tLoAIf4ehI09ZxClUX-gruUxTZ3aR2FhGmtF4C6Nju-Poke4LT1Ad9wpcrlKMMQwPGUKMucgTr1qlw0bK0s3hCNweJRqDL7uYxoRG3N3jHRhILLy8wf2Pq4A-KQg>📊 Progress Report  </a></li>
 
-            <div class="card">
-                <h4>Projects In Progress</h4>
-                <div class="number warning">34</div>
-            </div>
+               
+            </div>  </div>
 
-            <div class="card">
-                <h4>Delayed Projects</h4>
-                <div class="number danger">12</div>
-            </div>
 
-        </section>
-
-        <div class="content-grid">
-
-            <!-- Left -->
-            <div>
-
-                <!-- Progress -->
-                <section class="panel">
-
-                    <h3>Scheme / Project Progress</h3>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Infrastructure Development</span>
-                            <strong>78%</strong>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" style="width:78%"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Water & Sanitation</span>
-                            <strong>65%</strong>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" style="width:65%"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Livelihood Projects</span>
-                            <strong>84%</strong>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" style="width:84%"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Social Development</span>
-                            <strong>72%</strong>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" style="width:72%"></div>
-                        </div>
-                    </div>
-
-                </section>
-
-                <!-- Project Table -->
-                <section class="panel">
-
-                    <h3>Recent Projects</h3>
-
-                    <table>
-
-                        <thead>
-                            <tr>
-                                <th>Project</th>
-                                <th>Category</th>
-                                <th>Progress</th>
-                                <th>Status</th>
-                            </tr>
-                        </thead>
-
-                        <tbody>
-
-                            <tr>
-                                <td>Road Development</td>
-                                <td>Infrastructure</td>
-                                <td>92%</td>
-                                <td>
-                                    <span class="badge badge-green">
-                                        On Track
-                                    </span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>Drinking Water Project</td>
-                                <td>Water</td>
-                                <td>61%</td>
-                                <td>
-                                    <span class="badge badge-yellow">
-                                        In Progress
-                                    </span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>Community Hall</td>
-                                <td>Building</td>
-                                <td>45%</td>
-                                <td>
-                                    <span class="badge badge-red">
-                                        Delayed
-                                    </span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>Skill Development Centre</td>
-                                <td>Livelihood</td>
-                                <td>88%</td>
-                                <td>
-                                    <span class="badge badge-green">
-                                        On Track
-                                    </span>
-                                </td>
-                            </tr>
-
-                        </tbody>
-
-                    </table>
-
-                </section>
-
-            </div>
-
-            <!-- Right -->
-            <div>
-
-                <!-- Financial -->
-                <section class="panel">
-
-                    <h3>Financial Progress</h3>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Allocated</span>
-                            <strong>₹2.50 Cr</strong>
-                        </div>
-
-                        <div class="progress">
-                            <div class="progress-bar" style="width:100%"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Expenditure</span>
-                            <strong>₹1.78 Cr</strong>
-                        </div>
-
-                        <div class="progress">
-                            <div class="progress-bar"
-                                 style="width:71%">
-                            </div>
-                        </div>
-                    </div>
-
-                </section>
-
-                <!-- Alerts -->
-                <section class="panel">
-
-                    <h3>Alerts & Notifications</h3>
-
-                    <div class="alert alert-danger">
-                        <strong>3 Projects Delayed</strong><br>
-                        Immediate monitoring required.
-                    </div>
-
-                    <div class="alert alert-warning">
-                        <strong>5 Projects Near Deadline</strong><br>
-                        Review expected completion dates.
-                    </div>
-
-                    <div class="alert alert-success">
-                        <strong>Monthly Report Updated</strong><br>
-                        Data successfully submitted.
-                    </div>
-
-                </section>
-
-                <!-- Quick Stats -->
-                <section class="panel">
-
-                    <h3>Beneficiary Statistics</h3>
-
-                    <p style="margin:12px 0;">
-                        👨‍👩‍👧 Total Beneficiaries:
-                        <strong>4,825</strong>
-                    </p>
-
-                    <p style="margin:12px 0;">
-                        👩 Women Beneficiaries:
-                        <strong>2,460</strong>
-                    </p>
-
-                    <p style="margin:12px 0;">
-                        👴 Senior Citizens:
-                        <strong>815</strong>
-                    </p>
-
-                    <p style="margin:12px 0;">
-                        ♿ Persons with Disabilities:
-                        <strong>172</strong>
-                    </p>
-
-                </section>
-
-            </div>
+                                                   </div>
 
         </div>
 
         <footer>
-            VBGRAMG Gram Panchayat Level Monitoring System © 2026
+            VBGRAMG Gram Panchayat Level Monitoring System © 2026 Developed and Maintained By Jibin V K AITA Pattiam GP
         </footer>
 
     </main>
