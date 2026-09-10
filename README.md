@@ -478,7 +478,7 @@
         </div>
 
         <footer>
-            VBGRAMG Gram Panchayat Level Monitoring System © 2026 Developed and Maintained By Jibin V K AITA Pattiam GP
+            VBGRAMG Grama Panchayat Level Monitoring System Developed and Maintained By Jibin V K AITA Pattiam GP © 2026
         </footer>
 
     </main>
