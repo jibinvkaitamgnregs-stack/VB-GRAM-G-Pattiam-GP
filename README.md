@@ -75,7 +75,7 @@
         .menu a {
             display: block;
             text-decoration: none;
-            color: #374151;
+            color: #374251;
             padding: 12px 15px;
             border-radius: 7px;
             transition: 0.2s;
